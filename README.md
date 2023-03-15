@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Behnam :smile:
-I prefer Freelance and remote cooperations :ok_hand::ok_hand:
+I prefer freelance and remote cooperations :ok_hand::ok_hand:
 <!--
 **baloochyb/baloochyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
