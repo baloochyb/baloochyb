@@ -3,6 +3,7 @@
 ### Hi there 👋
 My name is Behnam :smile:
 I prefer freelance and remote cooperations :ok_hand::ok_hand:
+I am a cosmopolitan (Global Citizen) and also pro pluralism and secularism.
 <!--
 **baloochyb/baloochyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
