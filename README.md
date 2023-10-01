@@ -2,7 +2,9 @@
 ### Hi there 👋
 My name is Behnam :smile:
 
-Python is my LEGO and I am a Master Builder.
+**Python** is my LEGO and I am a **Master Builder**.
+
+I've been enjoying playing LEGO since I was a child.
 
 I prefer remote teamwork :ok_hand::ok_hand:
 
