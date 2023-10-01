@@ -1,8 +1,11 @@
-:link::link::link::link::link::link::link::link::link::link::link::link::link::link::link::link::link::link::link::link::link::link:
-![This is an image]![Emmet](https://github.com/baloochyb/baloochyb/assets/74891629/187ea8a6-7ecf-43f1-ae44-18c1fa7a1d06)
+![Emmet](https://github.com/baloochyb/baloochyb/assets/74891629/187ea8a6-7ecf-43f1-ae44-18c1fa7a1d06)
 ### Hi there 👋
 My name is Behnam :smile:
+
+Python is my LEGO and I am a Master Builder.
+
 I prefer remote teamwork :ok_hand::ok_hand:
+
 I am a cosmopolitan (Global Citizen) and also pro pluralism.
 <!--
 **baloochyb/baloochyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
