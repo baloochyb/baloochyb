@@ -4,8 +4,6 @@ My name is Behnam :smile:
 
 **Python** modules are quite similar to LEGO and I am a **Master Builder**.
 
-I've been enjoying playing LEGO since I was a child.
-
 I prefer remote teamwork :ok_hand::ok_hand:
 
 I am a cosmopolitan (Global Citizen) and also pro pluralism.
