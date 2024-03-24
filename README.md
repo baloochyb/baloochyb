@@ -6,7 +6,7 @@ I am a **Master Builder**.
 
 I prefer remote teamwork :ok_hand::ok_hand:
 
-I am a cosmopolitan (Global Citizen) and also pro Pluralism, Rhizomatic Paradigm and Decentralization.
+I am a cosmopolitan (Global Citizen) and also pro Pluralism, Rhizomatic Paradigm, Decentralization and Minimalism.
 <!--
 **baloochyb/baloochyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
