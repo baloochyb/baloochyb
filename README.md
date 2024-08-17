@@ -3,8 +3,6 @@
 My name is Behnam :smile:
 
 I am a **Master Builder**.
-
-I am a cosmopolitan (global citizen) and also pro pluralism, rhizomatic paradigm, decentralization, minimalism and also democratic and secular systems as well.
 <!--
 **baloochyb/baloochyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
